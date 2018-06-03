@@ -1,0 +1,87 @@
+* {
+padding:0;
+margin:0;
+vertical-align:baseline;
+list-style:none;
+border:0
+}
+
+/* Pagina de postagem */
+
+.container
+{
+	width: 600px;
+	height: 600px;
+	text-align: center;
+	margin-left: 400px;
+	border-radius: 20px;
+
+}
+
+.img
+{
+	padding-top: 20px;
+	width: 100%;
+}
+
+.text h1
+{
+    font-family: 'Ranga', cursive;
+    padding-top: 5px;
+}
+
+.text p
+{
+	text-align: center;
+	font-family: 'Alegreya', serif;
+}
+
+.footer a
+{
+	text-decoration: none;
+	float: left;
+	padding-left: 10px;
+	font-size: 20px;
+	font-family: 'Alegreya', serif;
+}
+
+.footer a:hover
+{
+	text-decoration: underline;
+	color: red;
+}
+
+.footer data
+{
+	float: right;
+	padding-right: 20px;
+}
+
+
+/* Formulário de login */
+.formulario
+{
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	margin-left: 35%;
+	margin-top: 140px;
+	background-color:#0612F3;
+	border-radius: 20px;  
+}
+
+.form-group
+{
+	width: 80% !important;
+	margin-left: 40px !important;
+
+}
+
+.form-group label
+{
+	margin-top: 20px !important;
+	color: #fff;
+	font-size: 20px;
+}
+
+

@@ -1,0 +1,43 @@
+body.pagina_index
+{
+	background: #165387 ;
+}
+
+.pagina_index h2
+{
+	color: red;
+	margin-top: 38px;
+	margin-bottom: 38px;
+
+}
+
+.pagina_index label
+{
+	color:#ffffff;
+}
+
+/* menu principal */
+.container-fluid.navbar_menu.container-menu-principal
+{
+	background: #337ab7;
+}
+
+.container-fluid a.navbar-brand,.cotainer-fluid a.navbar-brand:hover
+{
+   color: #ffffff;
+}
+
+li.dropdown.navbar_dropdown
+{
+	background:#fff;
+	margin: 6px;
+}
+
+/*menu lateral...*/
+
+a.btn.btn-primary.ajax-link:hover
+{
+	background:#265a88;
+}
+
+

@@ -1,0 +1,8 @@
+Projeto...
+
+1 - Panle ADMIN
+2 - Tela de login
+3 - Create BD,
+4 - Conectar com a nossa base...
+5 - Iniciar session
+6 - Finalizar session
